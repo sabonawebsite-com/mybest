@@ -6,6 +6,7 @@ const Navbar = () => {
     <div>
         <img src={assets.logo} alt="" />
       hello
+      this good for try only
     </div>
   )
 }
