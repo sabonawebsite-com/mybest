@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <div>
         <img src={assets.logo} alt="" />
-   check out
+  bad check
     </div>
   )
 }
