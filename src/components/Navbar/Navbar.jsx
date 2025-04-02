@@ -6,6 +6,7 @@ const Navbar = () => {
     <div>
         <img src={assets.logo} alt="" />
  fun check
+ <a href="game.html">Game</a>
     </div>
   )
 }
